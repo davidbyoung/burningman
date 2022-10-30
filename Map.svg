@@ -18,39 +18,30 @@
   </defs>
   <g id="Plazas">
     <g id="_3:00_B_Plaza" data-name="3:00 B Plaza">
-      <circle class="cls-1" cx="916.5" cy="272.04" r="26.5"/>
       <circle class="cls-2" cx="916.5" cy="272.04" r="10.6"/>
     </g>
     <g id="_3:00_G_Plaza" data-name="3:00 G Plaza">
-      <circle class="cls-1" cx="1063.8" cy="272.04" r="25.25"/>
       <circle class="cls-2" cx="1063.8" cy="272.04" r="10.1"/>
     </g>
     <g id="_4:30_G_Plaza" data-name="4:30 G Plaza">
-      <circle class="cls-1" cx="935.5" cy="585.04" r="26"/>
       <circle class="cls-2" cx="935.5" cy="585.04" r="10.4"/>
     </g>
     <g id="_4:30_B_Plaza" data-name="4:30 B Plaza">
-      <circle class="cls-1" cx="830.5" cy="480.04" r="26.5"/>
       <circle class="cls-2" cx="830.5" cy="480.04" r="10.6"/>
     </g>
     <g id="_6:00_G_Plaza" data-name="6:00 G Plaza">
-      <circle class="cls-1" cx="622" cy="715.54" r="26.75"/>
       <circle class="cls-2" cx="622" cy="715.54" r="10.7"/>
     </g>
     <g id="_7:30_G_Plaza" data-name="7:30 G Plaza">
-      <circle class="cls-1" cx="308.3" cy="584.84" r="26.75"/>
       <circle class="cls-2" cx="308.3" cy="584.84" r="10.7"/>
     </g>
     <g id="_7:30_B_Plaza" data-name="7:30 B Plaza">
-      <circle class="cls-1" cx="413.5" cy="480.04" r="26.25"/>
       <circle class="cls-2" cx="413.5" cy="480.04" r="10.5"/>
     </g>
     <g id="_9:00_G_Plaza" data-name="9:00 G Plaza">
-      <circle class="cls-1" cx="180.2" cy="272.04" r="26"/>
       <circle class="cls-2" cx="180.2" cy="272.04" r="10.4"/>
     </g>
     <g id="_9:00_B_Plaza" data-name="9:00 B Plaza">
-      <circle class="cls-1" cx="327.5" cy="272.04" r="25.5"/>
       <circle class="cls-2" cx="327.5" cy="272.04" r="10.2"/>
     </g>
   </g>
